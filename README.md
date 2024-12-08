@@ -36,5 +36,5 @@ Perhitungan otomatis nilai akhir
 ![Diagramclass](diagramclass.png)
 ## Flowchart
 ![flowchart](flowchart.png)
-## Output Program
-![Output Program](OutputProgram.png)
+## Output
+![Output](Output.png)
