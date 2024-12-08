@@ -1,10 +1,6 @@
-# Praktikum 8
-## Diagram Class
-![Diagramclass](diagramclass.png)
-## Flowchart
-![flowchart](flowchart.png)
 # Deskrip Program
-Aplikasi Python untuk manajemen data mahasiswa yang memungkinkan pengguna melakukan operasi CRUD (Create, Read, Update, Delete) pada data mahasiswa.
+Aplikasi Python untuk manajemen data mahasiswa yang memungkinkan pengguna melakukan operasi CRUD (Create, Read, Update, Delete)
+pada data mahasiswa.
 ## Struktur Program
 ## Komponen Utama
 - data_mahasiswa: Dictionary untuk menyimpan data mahasiswa
@@ -36,3 +32,7 @@ Perhitungan otomatis nilai akhir
     - H: Hapus data
     - L: Lihat data
     - K: Keluar program
+## Diagram Class
+![Diagramclass](diagramclass.png)
+## Flowchart
+![flowchart](flowchart.png)
